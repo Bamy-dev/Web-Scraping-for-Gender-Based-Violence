@@ -1,6 +1,6 @@
 # Web-Scraping-for-Gender-Based-Violence
 To create a dataset that can be used for research, data analysis, and model training concerning the matter of Gender Based Violence.
-Teaches us how to scrape data from twitter for sentiment analysis .
+The code attached to this repo teaches us how to scrape data from twitter for sentiment analysis .
 The data will have to be cleaned before being used for analysis or trained with a model.
 
 The data containd the following columns:
